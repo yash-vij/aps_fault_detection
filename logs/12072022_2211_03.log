@@ -1,0 +1,9 @@
+[2022-12-07 22:11:03,604] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2022-12-07 22:11:21,017] 10 root - INFO - Reading data from database: aps and collection: sensor
+[2022-12-07 22:12:24,085] 12 root - INFO - Found columns: Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[2022-12-07 22:12:24,089] 14 root - INFO - Dropping column: _id
